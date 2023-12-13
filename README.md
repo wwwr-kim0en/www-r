@@ -1,4 +1,6 @@
-### Hi there 👋
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![nextjs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+
 
 <!--
 **www-r/www-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
