@@ -3,7 +3,7 @@
 
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/www-r"
+    src="https://render.gitanimals.org/lines/wwwr-kim0en"
     width="600"
     height="110"
   />
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=www-r)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwr-kim0en)](https://github.com/anuraghazra/github-readme-stats)
